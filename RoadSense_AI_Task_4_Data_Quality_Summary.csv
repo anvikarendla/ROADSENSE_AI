@@ -1,0 +1,19 @@
+Metric,Value
+Dataset rows,759
+Distinct State/UT labels,35
+Distinct district labels,755
+Missing Year,0
+Missing State/UT,0
+Missing District,0
+Missing Accident Cases,0
+Missing Injured values,0
+Missing deaths,0
+Exact duplicate rows,0
+Records labelled Official State/UT data,576
+Records labelled Estimated,123
+Records carrying a Verified label (not independent proof),60
+Records with repeated metrics within a state (review signal),543
+Tamil Nadu records,38
+Tamil Nadu records naming Transport Department,27
+Haryana records,22
+Haryana records naming Statistical Abstract,0

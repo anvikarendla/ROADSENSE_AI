@@ -1,0 +1,11 @@
+State/UT,District,Accident Cases,Injured,Died,Data Status,Source
+Karnataka,Bengaluru Rural,7218,6923,1558,Official State/UT data,MoRTH / State-UT official data
+Kerala,Ernakulam,6479,7355,507,Estimated,Estimated using MoRTH State Total
+Kerala,Thiruvananthapuram,5085,5873,543,Estimated,Estimated using MoRTH State Total
+Kerala,Thrissur,4748,5850,415,Estimated,Estimated using MoRTH State Total
+Kerala,Kozhikode,4236,5146,389,Estimated,Estimated using MoRTH State Total
+Kerala,Kollam,3895,4524,421,Estimated,Estimated using MoRTH State Total
+Kerala,Alappuzha,3666,4519,365,Estimated,Estimated using MoRTH State Total
+Tamil Nadu,Coimbatore,3544,3322,1057,Verified 2022 district data,"Tamil Nadu Transport Department, Road Accident Analysis 2022"
+Tamil Nadu,Cuddalore,3426,4066,478,Verified 2022 district data,"Tamil Nadu Transport Department, Road Accident Analysis 2022"
+Tamil Nadu,Salem,3360,2828,868,Verified 2022 district data,"Tamil Nadu Transport Department, Road Accident Analysis 2022"
